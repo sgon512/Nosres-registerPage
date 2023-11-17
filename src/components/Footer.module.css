@@ -16,9 +16,7 @@
 }
 
 .footerLinks {
-  
-  margin-top: 1rem; /* Add some space between logo and links */
-  align-items: flex-start; /* Align items vertically in the footerLinks */
+  margin: auto;
 }
 
 .footerLinks ul {
@@ -33,7 +31,6 @@
 
 .footerLinks a {
   display: flex;
-  /* margin: auto; */
   font-size: 11px;
   text-decoration: none;
   color: black;
@@ -46,19 +43,16 @@
   color: grey;
   font-weight: 600;
   font-size: 10px;
-  margin-right: 60px;
-  margin-top: 50px;
+  margin: auto;
 }
 
 /* Additional style for the copyright section */
 .footerCopyright {
-
   align-items: flex-end;
   color: grey;
   font-weight: 600;
   font-size: 10px;
-  margin-right: 60px;
-  margin-top: 30px;
+  margin: auto;
 }
 
 
