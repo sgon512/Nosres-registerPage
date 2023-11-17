@@ -7,11 +7,15 @@ import Button from "@mui/material/Button";
 import { useNavigate } from "react-router-dom";
 import "../styles.css";
 
-
 const Header = () => {
   const navigate = useNavigate();
   return (
-    <AppBar position="sticky" color="default" elevation={0} className="header-bar">
+    <AppBar
+      position="sticky"
+      color="default"
+      elevation={0}
+      className="header-bar"
+    >
       <Toolbar className="Toolbar">
         <a href="https://accounts.nosres.com/" className="logo-link">
           <img
@@ -26,13 +30,14 @@ const Header = () => {
         <Button
           className="sign-in-button"
           href="https://accounts.nosres.com/login"
+          style={{ color: "black" , textTransform: "none" }}
         >
           Sign In
         </Button>
       </Toolbar>
     </AppBar>
-    
   );
 };
 
 export default Header;
+
