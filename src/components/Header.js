@@ -15,6 +15,7 @@ const Header = () => {
       color="default"
       elevation={0}
       className="header-bar"
+      style={{ backgroundColor: "white" }}
     >
       <Toolbar className="Toolbar">
         <a href="https://accounts.nosres.com/" className="logo-link">
