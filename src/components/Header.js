@@ -11,7 +11,7 @@ import "../styles.css";
 const Header = () => {
   const navigate = useNavigate();
   return (
-    <AppBar position="sticky" color="default" className="header-bar">
+    <AppBar position="sticky" color="default" elevation={0} className="header-bar">
       <Toolbar className="Toolbar">
         <a href="https://accounts.nosres.com/" className="logo-link">
           <img
