@@ -1,0 +1,10 @@
+/* Header bar styles */
+.header-bar {
+  background-color: #fff;
+  box-shadow: none;
+  border-bottom: 1px solid #ced4da;
+}
+.Toolbar {
+  display: flex;
+  justify-content: space-between;
+}
