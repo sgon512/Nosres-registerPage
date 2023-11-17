@@ -22,7 +22,7 @@ This page is React-based for creating a Nosres Account. It includes a sign-up fo
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/sgon512/Nosres-registerPage](https://github.com/sgon512/Nosres-registerPage)
+   git clone [[https://github.com/sgon512/Nosres-registerPage](https://github.com/sgon512/Nosres-registerPage)].
    ```
 
 2. Navigate to the project directory:
@@ -47,7 +47,7 @@ This page is React-based for creating a Nosres Account. It includes a sign-up fo
 
 ## Live Demo
 
-A live demo of the application is available on CodeSandbox at [https://6jkhdh.csb.app/](https://6jkhdh.csb.app/).
+A live demo of the application is available on CodeSandbox at [[https://6jkhdh.csb.app/](https://8lcvwp.csb.app/)].
 
 ## Special Considerations
 
@@ -59,4 +59,4 @@ Feel free to explore the code and enjoy creating your Nosres Account!
 
 ---
 
-**Note**: To access the live demo, visit [https://6jkhdh.csb.app/](https://6jkhdh.csb.app/).
+**Note**: To access the live demo, visit [[https://6jkhdh.csb.app/](https://8lcvwp.csb.app/)].
