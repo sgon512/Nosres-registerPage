@@ -6,6 +6,10 @@
 .Body {
   display: flex;
 }
+.header-bar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ced4da;
+}
 /* Logo link styles */
 .logo-link {
   display: flex;
@@ -45,13 +49,11 @@
 }
 .form {
   width: 350px;
- 
   background-color: #fff; 
   border-radius: 5px;
   border: 1px solid #ced4da;
   margin: auto;
   margin-top: 40px;
   padding: 20px 20px; 
- 
   max-width: 500px; 
 }
