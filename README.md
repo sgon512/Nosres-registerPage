@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # Nosres-registerPage
 
 This page is React-based for creating a Nosres Account. It includes a sign-up form, information section, header, and footer.
