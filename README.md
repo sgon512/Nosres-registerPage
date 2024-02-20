@@ -22,17 +22,13 @@ This page is React-based for creating a Nosres Account. It includes a sign-up fo
 
 ## How to Run Locally
 
-1. Clone the repository:
+1. Clone the repository
 
-   ```bash
-   git clone [[https://github.com/sgon512/Nosres-registerPage](https://github.com/sgon512/Nosres-registerPage)].
-   ```
+ 
 
-2. Navigate to the project directory:
+2. Navigate to the project directory
 
-   ```bash
-   cd Nosres-registerPage
-   ```
+
 
 3. Install dependencies:
 
@@ -55,7 +51,7 @@ A live demo of the application is available on CodeSandbox at [[https://6jkhdh.c
 ## Special Considerations
 
 - Real-time form validation ensures that users provide accurate information.
-- The application uses React, Material-UI components, and react-router-dom for navigation.
+- The application uses React, Vite, Material-UI components, and react-router-dom for navigation.
 - The project is structured for modularity, making it easy to maintain and extend.
 
 Feel free to explore the code and enjoy creating your Nosres Account!
